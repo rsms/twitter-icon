@@ -1,6 +1,6 @@
 # White Twitter icon
 
-This is an alternative icon to the three different (but ugly) alternatives which comes with Twitter.app.
+This is an alternative icon to the three different ones which comes with Twitter.app.
 
 ## Installing
 
