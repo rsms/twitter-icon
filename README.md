@@ -4,6 +4,10 @@ This is an alternative icon to the three different ones which comes with Twitter
 
 ## Installing
 
+Short version: Replace `Twitter.app/Contents/Resources/Icon.icns` with this icon.
+
+Long version:
+
 1. Bring up the context menu of Twitter.app and select "Show Package Contents"
 2. Navigate to Contents/Resources
 3. Find Icon.icns, select it and "Get Info" (Cmd+i)
