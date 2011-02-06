@@ -10,7 +10,7 @@ This is an alternative icon to the three different (but ugly) alternatives which
 4. Click the tiny orange lock in the bottom right corner of the info window to unlock the file
 5. Under "Sharing & Permissions", select "Read & Write" for the "everyone" name
 6. Rename the file to Icon-original.icns
-7. Drag-and-drop or copy-and-paste the white Icon.icns file from this project into the Resources directory
+7. Drag-and-drop or copy-and-paste the white [Icon.icns file from this project](https://github.com/rsms/twitter-icon/raw/master/Icon.icns) into the Resources directory
 
 Next time you start Twitter.app it should look like this:
 
